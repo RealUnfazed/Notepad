@@ -1,0 +1,14 @@
+C:\Users\Alireza\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\Alireza\source\repos\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\Alireza\source\repos\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.AssemblyReference.cache
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.cache
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\Alireza\source\repos\Notepad\Notepad\bin\Debug\AlirezaPlus.dll
+C:\Users\Alireza\source\repos\Notepad\Notepad\bin\Debug\AlirezaPlus.pdb
+C:\Users\Alireza\source\repos\Notepad\Notepad\obj\Debug\Notepad.csproj.CopyComplete
