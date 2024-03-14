@@ -11,7 +11,7 @@ Simple Notepad Similar To WINDOWS!
 <br>
 Open Source Under MIT Noncommercial License.
 # IMPORTANT
-🔰 GoodLuck 
+🔰 Don't Forget To Change Program.cs And Delete AlirezaPlus.dll Refrencce before Compile, GoodLuck 
 # Changelog
 v1.0.0.0 : <br>
 ✅ Official Release (Basic Version)!
